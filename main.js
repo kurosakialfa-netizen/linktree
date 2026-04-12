@@ -31,7 +31,7 @@ const links = [
   createLink("Instagram", "https://www.instagram.com/bruno_404.exe", " "),
   createLink("Email", "mailto: kurosakialfa@gmail.com", " "),
   createLink("Tik Tok", "https://www.tiktok.com/@bruno_drumns_am"),
-  createLink("WhatsApp", "https://wa.me/message/CNAKUJLAYHQPL1" )
+  createLink("WhatsApp", "https://wa.me/qr/BJOIFABKWXAYJ1" )
 ];
 
 const sampleData = createLinktreeData(profile, links);
