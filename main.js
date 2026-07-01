@@ -23,15 +23,16 @@ function createLinktreeData(profile, links) {
 
 const profile = createProfile(
   "Bruno Rengifo",
-  "Trabalhos em Serviços de informática | Professor de informática",
+  "Tecnico em Desenvolvimento de Sistema | Professor de informática",
   "./photo.jpg"
 );
 
 const links = [
   createLink("Instagram", "https://www.instagram.com/bruno_404.exe", " "),
   createLink("Email", "mailto: kurosakialfa@gmail.com", " "),
-  createLink("Tik Tok", "https://www.tiktok.com/@bruno_drumns_am"),
-  createLink("WhatsApp", "https://wa.me/qr/BJOIFABKWXAYJ1" )
+  createLink("GitHub", "//https://github.com/kurosakialfa-netizen"),
+  createLink("WhatsApp", "https://wa.me/qr/BJOIFABKWXAYJ1" ),
+  createlink("Linkedin", "https://www.linkedin.com/in/paulo-bruno-dos-santos-rengifo-95004240b/"
 ];
 
 const sampleData = createLinktreeData(profile, links);
