@@ -32,7 +32,7 @@ const links = [
   createLink("Email", "mailto: kurosakialfa@gmail.com", " "),
   createLink("GitHub", "//https://github.com/kurosakialfa-netizen"),
   createLink("WhatsApp", "https://wa.me/qr/BJOIFABKWXAYJ1" ),
-  createlink("Linkedin", "https://www.linkedin.com/in/paulo-bruno-dos-santos-rengifo-95004240b/")
+  createLink("Linkedin", "https://www.linkedin.com/in/paulo-bruno-dos-santos-rengifo-95004240b/")
 ];
 
 const sampleData = createLinktreeData(profile, links);
